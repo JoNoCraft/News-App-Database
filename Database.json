@@ -19,5 +19,12 @@
     "subject": "Stock Market Crash",
     "text": "Global stock markets have plunged as concerns about a possible recession grow, with major indices losing significant value.",
     "date": "2024-12-18"
+  },
+  {
+    "id": 4,
+    "type": "newspaper.fill",
+    "subject": "Stock Market Crash",
+    "text": "Global stock markets have plunged as concerns about a possible recession grow, with major indices losing significant value.",
+    "date": "2024-12-18"
   }
 ]
