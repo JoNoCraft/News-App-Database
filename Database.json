@@ -1,21 +1,21 @@
 [
   {
     "id": 1,
-    "type": "https://raw.githubusercontent.com/JoNoCraft/News-App-Database/main/images/article.PNG",
+    "type": "newspaper.fill",
     "subject": "Aufgaben am letzen Schultag",
     "text": "Herr Rischpreiß gibt den Schülern am letzen Schultag, dem 20.12.2024, viele Aufgaben. Das ist ein Skandal! Die Schüler können doch an einem Tag wie diesem sich sowas nicht gefallen lassen, oder?",
     "date": "2024-12-20"
   },
   {
     "id": 2,
-    "type": "https://raw.githubusercontent.com/JoNoCraft/News-App-Database/main/images/article.PNG",
+    "type": "newspaper.fill",
     "subject": "Champions League Final Results",
     "text": "The final match of the Champions League 2024 has ended with a surprising win for underdogs FC Zurich.",
     "date": "2024-12-19"
   },
   {
     "id": 3,
-    "type": "https://raw.githubusercontent.com/JoNoCraft/News-App-Database/main/images/article.PNG",
+    "type": "newspaper.fill",
     "subject": "Stock Market Crash",
     "text": "Global stock markets have plunged as concerns about a possible recession grow, with major indices losing significant value.",
     "date": "2024-12-18"
