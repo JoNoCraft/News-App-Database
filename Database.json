@@ -8,14 +8,14 @@
   },
   {
     "id": 2,
-    "type": "Sports",
+    "type": "https://raw.githubusercontent.com/JoNoCraft/News-App-Database/main/images/article.png",
     "subject": "Champions League Final Results",
     "text": "The final match of the Champions League 2024 has ended with a surprising win for underdogs FC Zurich.",
     "date": "2024-12-19"
   },
   {
     "id": 3,
-    "type": "Finance",
+    "type": "https://raw.githubusercontent.com/JoNoCraft/News-App-Database/main/images/article.png",
     "subject": "Stock Market Crash",
     "text": "Global stock markets have plunged as concerns about a possible recession grow, with major indices losing significant value.",
     "date": "2024-12-18"
