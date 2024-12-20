@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "type": "Breaking",
+    "subject": "New Tech Innovation",
+    "text": "A new breakthrough in AI technology has been made, promising to change the way we interact with machines.",
+    "date": "2024-12-20"
+  },
+  {
+    "id": 2,
+    "type": "Sports",
+    "subject": "Champions League Final Results",
+    "text": "The final match of the Champions League 2024 has ended with a surprising win for underdogs FC Zurich.",
+    "date": "2024-12-19"
+  },
+  {
+    "id": 3,
+    "type": "Finance",
+    "subject": "Stock Market Crash",
+    "text": "Global stock markets have plunged as concerns about a possible recession grow, with major indices losing significant value.",
+    "date": "2024-12-18"
+  }
+]
